@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Ftrisyainfotech.com%2Fmyimg%2Fchild%2Fandoroid.gif&imgrefurl=https%3A%2F%2Ftrisyainfotech.com%2FAndroidDevelopment.php&tbnid=sP-ns1dSTqoPtM&vet=12ahUKEwj8t-GU1Iz4AhWKw3MBHXT1AWsQMygcegUIARC0Ag..i&docid=6V-AcHTiE54PUM&w=1294&h=508&q=technology%20banner%20gifs&ved=2ahUKEwj8t-GU1Iz4AhWKw3MBHXT1AWsQMygcegUIARC0Ag)
 <h1 align="center">Hi 👋, I'm Jeffrin t</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
