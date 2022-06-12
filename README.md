@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jeff__x24" target="blank"><img src="https://img.shields.io/twitter/follow/jeff__x24?logo=twitter&style=for-the-badge" alt="jeff__x24" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python**
 
