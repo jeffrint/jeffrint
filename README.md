@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrin t</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Tech Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffrint&label=Profile%20views&color=0e75b6&style=flat" alt="jeffrint" /> </p>
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/jeff__x24" target="blank"><img src="https://img.shields.io/twitter/follow/jeff__x24?logo=twitter&style=for-the-badge" alt="jeff__x24" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Career Guidance**
 
 - 📫 How to reach me **jeffrintjeffrin2@gmail.com**
 
-- ⚡ Fun fact **: I am an Introvert**
+- ⚡ Fun fact **: A worst generation kid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
